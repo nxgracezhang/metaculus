@@ -1,0 +1,2 @@
+> print(paste("Predicted Bitcoin price on May 15th, 2024:", predicted_price_may_15))
+[1] "Predicted Bitcoin price on May 15th, 2024: 62452.7028963127"
